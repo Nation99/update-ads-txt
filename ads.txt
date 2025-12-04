@@ -1,7 +1,7 @@
 # Header Bidding Agency 
 # info@hbagency.it
 managerdomain=hbagency.it
-ownerdomain=usatonlinetools.com
+ownerdomain=usatonlinetools.online
 headerbidding.agency, 31651, DIRECT
 hbagency.it, 31651, DIRECT
 google.com, pub-5849238611809526, RESELLER, f08c47fec0942fa0
